@@ -1,4 +1,2 @@
 # AudioSplitBySubtitleTool
-基于 Winform 根据字幕时间轴来分割音频的工具
-
-由于最近在研究VITS语音合成，但是需要的数据集要在视频里一条一条截取过于繁琐，所以基于Winform写了这个程序
+基于 Winform 根据字幕时间轴来分割音频的工具，分割使用的ffmepg，所以需要自行下载ffmepg放在执行程序根目录下。
