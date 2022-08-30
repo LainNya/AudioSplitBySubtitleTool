@@ -1,2 +1,2 @@
 # AudioSplitBySubtitleTool
-基于 Winform 根据字幕时间轴来分割音频的工具，分割使用的ffmepg，所以需要自行下载ffmepg放在执行程序根目录下。
+基于 Winform 根据字幕时间轴来分割音频的工具，分割使用的ffmpeg，所以需要自行下载ffmpeg放在执行程序根目录下。
